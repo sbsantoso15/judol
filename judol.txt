@@ -3,6 +3,21 @@ shopee.co.id
 shopee.com
 blibli.com
 
+tiktok.com
+www.tiktok.com
+tiktokcdn.com
+tiktokcdn-live.com
+tiktokcdn-us.com
+tiktokv.com
+tiktokv.us
+byteoversea.com
+ibytedtos.com
+ibyteimg.com
+ipstatp.com
+muscdn.com
+musical.ly
+akamaized.net
+
 # Daftar situs judi online
 bolavita.pro
 indosbobet.org
