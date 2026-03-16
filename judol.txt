@@ -4,10 +4,10 @@
 \.|^)blibli\.
 \.|^)lazada\.
 \.|^)zalora\.
+\.|^)mccollisionmiami\.
 
-tiktok.com
-www.tiktok.com
-tiktokcdn.com
+\.|^)tiktok\.
+\.|^)tiktokcdn\.
 tiktokcdn-live.com
 tiktokcdn-us.com
 tiktokv.com
