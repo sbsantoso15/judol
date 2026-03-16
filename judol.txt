@@ -1,7 +1,9 @@
 # e-comm
-shopee.co.id
-shopee.com
-blibli.com
+\.|^)shopee\.
+\.|^)tokopedia\.
+\.|^)blibli\.
+\.|^)lazada\.
+\.|^)zalora\.
 
 tiktok.com
 www.tiktok.com
